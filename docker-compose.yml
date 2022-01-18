@@ -21,3 +21,4 @@ services:
     image: 'percona:5.6'
     environment:
       MYSQL_ROOT_PASSWORD: secretadmin
+      
